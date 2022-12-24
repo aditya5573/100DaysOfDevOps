@@ -6,7 +6,7 @@
 
 ## Progress
 ### DevOps Pre-Requisite Course
-- [ ] 1> [Day-01](https://github.com/aditya5573/100DaysOfDevOps/blob/main/Journey%202023/day-01)
+- [ ] 1> 
 ### GIT for Beginners
 ### Learning Linux Basics Course & Labs
 ### Shell Scripts for Beginners
