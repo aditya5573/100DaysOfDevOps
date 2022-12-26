@@ -1,6 +1,6 @@
 # 90DaysOfDevOps
 - This repository is used to document my journey on getting a better foundational knowledge of "DevOps". 
-- I'm starting this journey on 25th Decemeber 2022 and the idea is to take 90 days.
+- I'm starting this journey on 1st January 2022 and the idea is to take 90 days.
 - The reason for documenting the journey is so that others can take something from it and also hopefully enhance the resources.
 - Inspired by [Michael Cade's 90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)
 
